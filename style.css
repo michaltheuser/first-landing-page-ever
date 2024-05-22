@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(226, 226, 182);
+}
+
+
+header {
+    text-align: center;
+    color: rgb(219, 143, 30);
+    border-style:solid;
+    border-color: rgb(240, 250, 250);
+    border-width: 7px;
+    border-radius: 60px;
+
+    
+}
+
+h2 {
+    color: rgb(190, 114, 21);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+p {
+    font-family: cursive;
+}
+
+b {
+    background-color: rgb(212, 133, 80);
+    color: azure
+    
+}
+
+img {
+    border-style:ridge;
+    border-color: blanchedalmond;
+    border-width: 0px;
+    
+    
+}
+
+fieldset {
+    background-color: blanchedalmond;
+    border-bottom-right-radius: 2rem;
+}
+
+input,textarea {
+    background-color: rgb(226, 226, 182);
+    border-bottom-right-radius: 2rem;
+    border-style: groove;
+}
+
+legend,strong {
+    text-align: center;
+    font-size:x-large;
+    color: rgb(190, 114, 21);
+    
+}
+
